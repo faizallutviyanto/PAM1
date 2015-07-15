@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datamahasiswa>
+    <mahasiswa>
+        <nim>1001</nim>
+        <nama>ABCDEF</nama>
+        <fakultas>FTI</fakultas>
+    </mahasiswa>
+    <mahasiswa>
+        <nim>1002</nim>
+        <nama>QWERTY</nama>
+        <fakultas>FEB</fakultas>
+    </mahasiswa>
+    <mahasiswa>
+        <nim>1003</nim>
+        <nama>POIUY</nama>
+        <fakultas>FIK</fakultas>
+    </mahasiswa>
+</datamahasiswa>
