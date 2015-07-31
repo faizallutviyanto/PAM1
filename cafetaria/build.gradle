@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.0"
 
     defaultConfig {
-        applicationId "com.ngampus.ngampusapps"
+        applicationId "com.ngampus.cafetaria"
         minSdkVersion 8
         targetSdkVersion 22
         versionCode 1

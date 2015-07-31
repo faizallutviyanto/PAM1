@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ngampus.ngampusapps" >
+    package="com.ngampus.cafetaria" >
 
     <application
         android:allowBackup="true"
@@ -15,6 +15,12 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name=".Pemesanan"
+            android:label="@string/pemesanan_title" >
+        </activity>
+        <activity android:name=".MinumanBaru"
+            android:label="@string/pemesanan_baru_title" >
         </activity>
     </application>
 

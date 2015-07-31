@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Cafetaria</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_ayo_pesan">Ayo Pesan</string>
+    <string name="kosong">Belum Memesan</string>
+    <string name="total">TOTAL: Rp.</string>
+    <string name="label_button_pesan_baru">Pesan Lagi</string>
+    <string name="label_keluar">Keluar</string>
+    <string name="harus_diisi">Masukkan nomor meja anda dengan benar</string>
+    <string name="informasi_tak_lengkap">Informasi Tidak Lengkap</string>
+    <string name="gelas_kecil_label">Gelas Kecil</string>
+    <string name="gelas_besar_label">Gelas Besar</string>
+    <string name="hangat">Hangat</string>
+    <string name="dingin">Dingin</string>
+    <string name="tambah_pesanan">Tambah</string>
+    <string name="hapus">Hapus</string>
+    <string name="cara_pesan">Cara Memesan</string>
+    <string name="cara_pesan_teks">Ikuti pesan ini, pilih pilihan kopi sesuai selera anda</string>
+    <string name="ukuran_kopi">Ukuran Gelas Kopi</string>
+    <string name="pilihan_selection">Hangat/Dingin?</string>
+    <string name="checkout_text">Coffe anda akan tersaji setelah 15 menit.</string>
+    <string name="checkout_title">Thank you!</string>
+    <string name="pemesanan_title">Pemesanan Anda</string>
+    <string name="pemesanan_baru_title">Pemesanan</string>
+    <string name="settings_label">Settings...</string>
+    <string name="settings_title"> Coffe settings</string>
+    <string name="settings_shortcut">s</string>
+    <string name="help_label">Help</string>
+    <string name="help_title">Help</string>
+    <string name="help_shortcut">h</string>
+    <string name="exit">Exit</string>
+    <string name="edit_order_help">.</string>
+    <string name="isi_nomor_meja">Isikan Nomor Meja Anda.</string>
+</resources>

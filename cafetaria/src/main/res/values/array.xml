@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <array name="ukuran">
+        <item>@string/gelas_kecil_label</item>
+        <item>@string/gelas_besar_label</item>
+    </array>
+    <array name="pilihan">
+        <item>@string/hangat</item>
+        <item>@string/dingin</item>
+    </array>
+</resources>
